@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB_2023.GBR   4/7/2026  6:48:54 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1 (SGN)                                
+.GP1                L2 (GND)                                
+.G1                 L3 (SGN)                                
+.GP2                L4 (GND/PWR)                            
+.GP3                L5 (PWR/GND)                            
+.GBL                L6 (SGN)                                
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Board Shape                             
+.GM3                Top 3D Body                             
+.GM5                Top Assembly                            
+.GM6                Top Component Center                    
+.GM10               Mechanical 10                           
+.GM12               Mechanical 12                           
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

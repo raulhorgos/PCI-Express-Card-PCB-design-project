@@ -1,0 +1,77 @@
+Altium Designer Pick and Place Locations
+D:\UTCN\TIE\00. TIE subiecte\TIE2023\TIE_2023\Project Outputs for TIE_2023\Pick Place\Pick Place for PCB_2023.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/04/26
+Time:       18:48
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer       Footprint    Center-X(mil) Center-Y(mil) Rotation Description                                                                                         
+J3         PCI_75_A      TopLayer    PCI_75_a     590.551       -118.110      0        "M2 Key A Edge Connector"                                                                           
+C9         100nF         TopLayer    CAP0402      480.315       503.937       135      "CAP CER 100nF 16V X7R 0402"                                                                        
+Y2         32KHz         TopLayer    CFPX-3.2X1.5 173.228       718.504       90       "A 3.2 x 1.5mm SMD crystal in a ceramic package with a seam
+sealed metal lid, hermetically sealed" 
+Y1         32MHz         TopLayer    XRCGB-2X1.6  737.205       968.504       0        "A 2 x 1.6mm SMD crystal in a ceramic package"                                                      
+U3         "QSPI Memory" TopLayer    WLCSP-22     911.417       531.496       0        "NOR Flash Serial NOR 1.65V-3.6V 64Mbit x4 I/O WLCSP-22"                                            
+U2         TPS62810-Q1   TopLayer    VQFN-9       177.165       263.779       90       "Switching Voltage Regulators Automotive 2.75-V to 6-V 4-A step-down"                               
+U1         TIE2023       TopLayer    TIE23_IC     590.551       712.141       45       "Bluetooth, NFC and ANT+ IC"                                                                        
+TP6        Testpoint     BottomLayer TestPoint    78.740        551.181       90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+TP5        Testpoint     BottomLayer TestPoint    82.677        86.614        90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+TP4        Testpoint     BottomLayer TestPoint    208.661       141.732       90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+TP3        Testpoint     BottomLayer TestPoint    133.858       527.559       90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+TP2        Testpoint     BottomLayer TestPoint    78.740        196.850       90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+TP1        Testpoint     BottomLayer TestPoint    275.591       590.551       90       "• SMD Pad diameter of 1mm.
+• Solder mask opening = 0.075mm from pad edge;"                        
+R9         0R            TopLayer    RES0402      661.417       1185.039      90       "RES SMD 0 OHM 1% 1/16W 0402"                                                                       
+R8         49.9K         TopLayer    RES0201      266.535       212.598       0        "RES SMD 49.9K OHM 1% 1/20W 0201"                                                                   
+R7         0R            TopLayer    RES0402      519.685       1181.102      90       "RES SMD 0 OHM 1% 1/16W 0402"                                                                       
+R6         6.8K          TopLayer    RES0201      266.535       307.087       180      "RES SMD 6.8K OHM 1% 1/20W 0201"                                                                    
+R5         3.3K          TopLayer    RES0201      94.488        274.409       90       "RES SMD 3.3KK OHM 1% 1/20W 0201"                                                                   
+R4         100K          TopLayer    RES0201      267.716       181.102       180      "RES SMD 100K OHM 1% 1/20W 0201"                                                                    
+R3         0R            TopLayer    RES0402      590.551       1181.496      90       "RES SMD 0 OHM 1% 1/16W 0402"                                                                       
+R2         0R            TopLayer    RES0402      969.488       1280.906      90       "RES SMD 0 OHM 1% 1/16W 0402"                                                                       
+R1         0R            TopLayer    RES0402      1022.638      1284.449      90       "RES SMD 0 OHM 1% 1/16W 0402"                                                                       
+LED3       APT1608SRCPRV TopLayer    LED0402      590.551       1301.181      270      "Standard LEDs - SMD RED WATER CLEAR"                                                               
+LED2       APT1608SRCPRV TopLayer    LED0402      519.685       1301.181      270      "Standard LEDs - SMD RED WATER CLEAR"                                                               
+LED1       APT1608SRCPRV TopLayer    LED0402      661.417       1301.181      270      "Standard LEDs - SMD RED WATER CLEAR"                                                               
+L4         4.7nH         TopLayer    FB_0603      161.417       1283.465      90       "Power Inductors - SMD 3655 0603 4N7 +/- 0.3nH T&R"                                                 
+L3         15uH          TopLayer    FB_0603      307.087       905.512       225      "Power Inductors - SMD 3655 0603 4N7 +/- 0.3nH T&R"                                                 
+L2         10uH          TopLayer    FB_0603      303.347       826.970       225      "Power Inductors - SMD 3655 0603 4N7 +/- 0.3nH T&R"                                                 
+L1         10uH          TopLayer    FB_1206      212.598       433.071       90       "Power Inductors - SMD 0603 10uH 20%"                                                               
+J2         U.FL-LP-040   TopLayer    U.FL-R-SMT-1 1023.622      1387.795      0        "Ultra Small Surface Mount Coaxial Connectors"                                                      
+J1         U.FL-LP-040   TopLayer    U.FL-R-SMT-1 157.480       1387.795      0        "Ultra Small Surface Mount Coaxial Connectors"                                                      
+C10        100nF         TopLayer    CAP0402      807.087       696.850       225      "CAP CER 100nF 16V X7R 0402"                                                                        
+C28        10pF          TopLayer    CAP0201      266.535       244.095       0        "CAP CER 10pF 20% 10V X6S 0201"                                                                     
+C27        22uF          TopLayer    CAP0805      299.212       397.638       90       "CAP CER 22uF 10% 6.3V X7R 0805"                                                                    
+C26        100pF         TopLayer    CAP0201      658.951       875.487       45       "CAP CER 100pF 20% 10V X6S 0201"                                                                    
+C25        4.7nF         TopLayer    CAP0201      266.535       275.591       180      "CAP CER 4.7nF 20% 10V X6S 0201"                                                                    
+C24        10uF          TopLayer    CAP0805      125.984       396.654       270      "CAP CER 10uF 10% 6.3V X7R 0805"                                                                    
+C23        12pF          TopLayer    CAP0402      185.039       822.835       180      "CAP CER 12pF 16V X7R 0402"                                                                         
+C22        12pF          TopLayer    CAP0402      172.441       614.173       180      "CAP CER 12pF 16V X7R 0402"                                                                         
+C21        100pF         TopLayer    CAP0402      1069.882      1282.480      270      "CAP CER 100pF 16V X7R 0402"                                                                        
+C20        100pF         TopLayer    CAP0402      921.260       1280.315      90       "CAP CER 100pF 16V X7R 0402"                                                                        
+C19        0.5pF         TopLayer    CAP0402      110.236       1294.488      90       "CAP CER 0.5pF 16V X7R 0402"                                                                        
+C18        0.7pF         TopLayer    CAP0402      216.535       1322.834      270      "CAP CER 0.7pF 16V X7R 0402"                                                                        
+C16        100pF         TopLayer    CAP0201      637.795       897.638       45       "CAP CER 100pF 20% 10V X6S 0201"                                                                    
+C15        12pF          TopLayer    CAP0402      807.480       968.110       270      "CAP CER 12pF 16V X7R 0402"                                                                         
+C14        100nF         TopLayer    CAP0402      492.126       900.591       315      "CAP CER 100nF 16V X7R 0402"                                                                        
+C13        100nF         TopLayer    CAP0402      413.386       866.142       225      "CAP CER 100nF 16V X7R 0402"                                                                        
+C12        10uF          TopLayer    CAP0603      386.186       909.808       225      "CAP CER 10uF 25V X7R 0603"                                                                         
+C11        100nF         TopLayer    CAP0402      391.732       784.449       225      "CAP CER 100nF 16V X7R 0402"                                                                        
+C8         4.7uF         TopLayer    CAP0603      606.299       448.819       135      "CAP CER 4.7uF 25V X7R 0603"                                                                        
+C7         4.7uF         TopLayer    CAP0603      527.559       527.559       135      "CAP CER 4.7uF 25V X7R 0603"                                                                        
+C6         4.7uF         TopLayer    CAP0603      657.480       472.441       135      "CAP CER 4.7uF 25V X7R 0603"                                                                        
+C5         1uF           TopLayer    CAP0402      528.662       935.905       315      "CAP CER 1uF 16V X7R 0402"                                                                          
+C4         100nF         TopLayer    CAP0402      376.103       660.314       315      "CAP CER 100nF 16V X7R 0402"                                                                        
+C3         12pF          TopLayer    CAP0402      666.339       969.291       90       "CAP CER 12pF 16V X7R 0402"                                                                         
+C2         820pF         TopLayer    CAP0201      722.938       825.301       225      "CAP CER 820pF 20% 10V X6S 0201"                                                                    
+C1         100nF         TopLayer    CAP0402      976.378       566.929       90       "CAP CER 100nF 16V X7R 0402"                                                                        

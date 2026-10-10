@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\UTCN\TIE\00. TIE subiecte\TIE2023\TIE_2023\PCB_2023.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_2023.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gbl
+LayersSetName=L1 (SGN)_L2 (GND)_Blind_Vias|DrillFile=pcb_2023.tx1|DrillLayers=gtl,gp1
+LayersSetName=L2 (GND)_L3 (SGN)_Buried_Vias|DrillFile=pcb_2023.tx2|DrillLayers=gp1,g1
